@@ -1,0 +1,51 @@
+body {
+    background: #cccccc;
+    font-family: 'Raleway', sans-serif;
+    color: #222222ca;  
+}
+
+.container {
+    width: 900px;
+    margin: 0 auto;
+}
+.profile {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.foto-principal { 
+    width: 200px;
+    border-radius: 50%;
+    border: 2px solid #ffffff;
+    margin: 30px;
+    box-shadow: 0px 0px 10px #a7a7a7;
+    margin-bottom: 0;
+    /*
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;    
+    */
+}
+h1 {
+    margin-bottom: 0;
+    margin-top: 5px;
+    letter-spacing: -1px;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+h2 {
+    margin-top: 0;
+    font-style: italic;
+    color: #686868;
+    font-weight: 100;
+    letter-spacing: -1px;
+}
+.social-icon {
+    width: 20px;
+}
+
+.social-link {
+    text-decoration: none;
+}
+.instagram{
+    margin: 0px 15px 0 15px;
+}
